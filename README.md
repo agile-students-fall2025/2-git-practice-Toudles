@@ -18,3 +18,6 @@ Wow that’s so interesting! I didn’t know about this, pretty worrying... Than
 ## Milan’s Review of Article
 9/16/25: One thing I found interesting was how the "EternalBlue" vulnerability was initially created by the US National Security Agency (NSA). It’s fascinating to think that this Agency develops tools that...
 
+## Haroon's comment
+Honestly, I just avoid thinking about this stuff...
+
